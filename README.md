@@ -14,4 +14,4 @@ Research project website template forked from: https://github.com/Emerge-Lab/TRA
 - Update Google Analytics ID in the `index.html` script at the bottom
 
 ## TODO
-- Add NYU Favicon
+- [ ] Add NYU Favicon
