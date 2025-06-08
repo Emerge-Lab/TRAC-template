@@ -27,8 +27,5 @@ Research project website template forked from: https://github.com/ComputationalR
 2. For a local server: `python -m http.server 8000`
 3. Visit `http://localhost:8000`
 
-## Customization Tips
-
-
 ## TODO
 - [ ] Add NYU Favicon
